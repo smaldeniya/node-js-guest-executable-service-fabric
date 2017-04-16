@@ -1,0 +1,16 @@
+{
+  "parser": "babel-eslint",
+  "env": {
+    "node": true,
+    "es6":true
+  },
+  "rules": {
+    "quotes": [2, "single"],
+    "eol-last": [0],
+    "no-underscore-dangle": [0],
+    "comma-spacing": [0],
+    "no-extra-strict": [0],
+    "strict": [0],
+    "dot-notation": [0]
+  }
+}
